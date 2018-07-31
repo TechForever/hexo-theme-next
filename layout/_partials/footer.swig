@@ -18,5 +18,9 @@
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.{{ theme.scheme }}
   </a>
+  <span class="icp">
+    蜀ICP备18011082号
+  </span>
+  <a href="https://v.yunaq.com/certificate?domain=www.yuntianti.com&from=label"><img src="https://aqyzmedia.yunaq.com/labels/label_lg_90020.png"></img>a>
 </div>
 {% endif %}
