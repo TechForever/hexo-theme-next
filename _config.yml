@@ -123,6 +123,13 @@ social_icons:
 #links:
   #Title: http://example.com/
 
+links_icon: link
+links_title: 友情链接
+links_layout: block
+links:
+    见字如面: https://hiwannz.com
+    涛哥聊Python: http://www.ipengtao.com
+
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
@@ -332,7 +339,7 @@ disqus:
 
 # changyan
 changyan:
-  enable: true
+  enable: false 
   appid: cyt9sSSYy
   appkey: 0c7b1c60f4b87601de91a4843465edc1
 
@@ -456,7 +463,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: yes
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
