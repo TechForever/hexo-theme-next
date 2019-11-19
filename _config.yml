@@ -47,10 +47,10 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
-  #about: /about/
-  archives: /archives/
+  about: /about/
   tags: /tags/
+  categories: /categories/
+  archives: /archives/
   #sitemap: /sitemap.xml
   #commonweal: /404/
 
@@ -495,7 +495,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: false 
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
